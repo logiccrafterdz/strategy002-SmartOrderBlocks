@@ -194,10 +194,10 @@ We welcome contributions from the trading and development community! See [CONTRI
 ## 📞 Links & Community
 
 - 🌐 **Website**: [Coming Soon]
-- 🐦 **Twitter**: [@SmartOrderBlocks]
-- 📱 **Telegram**: [t.me/SmartOrderBlocks]
-- 📧 **Email**: [contact@smartorderblocks.com]
-- 💬 **Discord**: [discord.gg/smartorderblocks]
+- 🐦 **Twitter**: [@Arana_lib]
+- 📱 **Telegram**: [t.me/LogicCrafterDZ]
+- 📧 **Email**: [logiccrafterdz@gmail.com]
+
 
 ## 📄 License
 
